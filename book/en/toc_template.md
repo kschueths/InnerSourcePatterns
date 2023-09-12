@@ -19,7 +19,7 @@ Instead edit toc_template.md
 
 ## Patterns <a id="p"></a>
 
-<<PATTERS_HERE>>
+<<PATTERNS_HERE>>
 
 ## Appendix
 
@@ -27,6 +27,7 @@ Instead edit toc_template.md
 * Extras
   * [README Template](../../patterns/2-structured/project-setup/templates/README-template.md)
   * [CONTRIBUTING Template](../../patterns/2-structured/project-setup/templates/CONTRIBUTING-template.md)
+  * [RFC Template](../../patterns/2-structured/templates/rfc.md)
 
 ## Resources
 
