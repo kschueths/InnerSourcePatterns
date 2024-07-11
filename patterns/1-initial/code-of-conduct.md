@@ -74,6 +74,7 @@ Community members feel empowered to contribute openly and engage in meaningful d
 - Red Hat - Many of the internal communities
 - National Australia Bank
 - GitHub (Company wide "Handbook for Hubbers")
+- Analog Devices, Inc
 
 ## Authors
 
@@ -82,6 +83,7 @@ Community members feel empowered to contribute openly and engage in meaningful d
 ## Acknowledgments
 
 - Matt Cobby - Adding the National Australia Bank reference
+- Katie Schueths - Adding the Analog Devices, Inc reference
 
 ## References
 
